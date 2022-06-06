@@ -4861,6 +4861,7 @@ a img {
     display: block;
     line-height: 1;
     color: #fff;
+    
 }
 
 @media only screen and (min-width:550px) {
@@ -5142,5 +5143,47 @@ a img {
     height:170px;
     width:170px;
     /* object-fit:contain; */
+
+}
+
+.navbar{
+
+    height:55px;
+    width:100%;
+    background-color: rgba(62, 62, 66, 0.999);
+    display:flex;
+    justify-content:space-evenly;
+    gap:10%;
+    text-align:center;
+
+}
+
+.navbarElem{
+
+    /* font-size: 32px;
+    margin-top:5px;
+    font-size: 35px; */
+    font-size: 200%;
+    margin-top:0.85%;
+
+    display: block;
+    line-height: 1;
+    color: #fff;
+    font-family: 'Rubik', sans-serif;
+
+}
+
+
+.techimg1 {
+
+    height:170px;
+    width:170px;
+    /* object-fit:contain; */
+
+}
+
+.tech1{
+
+    margin-left:30%;
 
 }
