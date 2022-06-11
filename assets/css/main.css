@@ -4886,8 +4886,19 @@ a img {
 }
 
 .header-links {
-    margin: 10px
+    margin: 10px;
+    /* a:hover, a:focus {
+        color: #005580;
+        text-decoration: underline;
+    } */
+    /* cursor: pointer;
+    transition: color .3s ease-out, background-color .3s ease-out, border-color .3s ease-out */
 }
+
+.link:hover {
+    background-color: #1488CC;
+    cursor:pointer;
+  }
 
 .header-links .link {
     color: #fff;
