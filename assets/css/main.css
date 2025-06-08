@@ -5164,6 +5164,7 @@ a img {
 
 .navbar{
 
+    Position:sticky;
     height:55px;
     width:100%;
     background-color: rgba(62, 62, 66, 0.999);
