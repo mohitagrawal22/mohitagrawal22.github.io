@@ -5167,7 +5167,7 @@ a img {
     Position:sticky;
     height:55px;
     width:100%;
-    background-color: red;    
+    background-color: #454444;    
     display:flex;
     justify-content:space-evenly;
     gap:10%;
